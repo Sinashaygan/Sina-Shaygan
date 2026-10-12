@@ -48,6 +48,15 @@ I am a **Frontend Engineer** and **Computer Science Student at Shahid Beheshti U
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+### 📱 Mobile & Cross-Platform Engineering
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Maps & Location](https://img.shields.io/badge/Geospatial_&_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Notifications-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+
 </p>
 
 ---
