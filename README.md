@@ -90,6 +90,16 @@ I am a **Frontend Engineer** and **Computer Science Student at Shahid Beheshti U
 
 ---
 
+#### 📱 Mobile Engineering & Cross-Platform Applications
+| Repository | Description & Architectural Focus | Stack |
+| :--- | :--- | :--- |
+| 📍 **[fevorite-places-app](https://github.com/Sinashaygan/fevorite-places-app)** | Native device integration showcase featuring camera capture, geospatial maps, device location, and offline-first storage via Expo SQLite | `React Native` `Expo Router` `SQLite` `Maps` |
+| 💳 **[expence-tracker-app](https://github.com/Sinashaygan/expence-tracker-app)** | Expense management mobile application with transactional state tracking, dynamic filters, and clean navigation flows | `React Native` `Expo` `TypeScript` |
+| 📱 **[mobile-menu-app](https://github.com/Sinashaygan/mobile-menu-app)** | Interactive categorized mobile catalog and menu explorer with optimized gestures and navigation architecture | `React Native` `Expo` `Navigation` |
+| 🚀 **[RNCOURSE](https://github.com/Sinashaygan/RNCOURSE)** | Core native development laboratory focusing on lifecycle, layout mechanics, local notifications, animations, and ecosystem modules | `React Native` `Expo` `Mobile Labs` |
+
+---
+
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:sinashaygan23041385@gmail.com">
